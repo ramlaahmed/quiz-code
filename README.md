@@ -12,7 +12,7 @@ For this project, i had to create a quiz that includes code-related questions in
 
 ## Screenshot
 
-This is an front page image of my quiz.
+This is an image of the quiz.
 
 ![codequiz](./assets/images/screencapture-127-0-0-1-5500-index-html-2022-08-03-16_58_06.png)
 
