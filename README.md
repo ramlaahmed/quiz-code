@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this project, i had to create a quiz that includes code-related questions in oder for the others to answers within the time limit given.
+For this project, i had to create a quiz that includes code-related questions in order to be answered within the time limit given. Also incorrect answers will penalize your time by ten seconds.
 
 ## Technologies
 
@@ -10,11 +10,13 @@ For this project, i had to create a quiz that includes code-related questions in
 - CSS
 - JavaScript
 
+## Screenshot
+
+This is an front page image of my quiz.
+
+![codequiz](./assets/images/screencapture-127-0-0-1-5500-index-html-2022-08-03-16_58_06.png)
+
 ## Links
 
 https://github.com/ramlaahmed/quiz-code
 https://ramlaahmed.github.io/quiz-code/
-
-## Screenshots
-
-This is an image of my quiz
